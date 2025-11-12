@@ -1,0 +1,16 @@
+{
+  "name": "int-222",
+  "version": "1.0.0",
+  "description": "This is a demo learning .json file",
+  "license": "ISC",
+  "author": "Ayush",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "validator": "^13.15.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
