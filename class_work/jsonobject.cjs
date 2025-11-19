@@ -57,3 +57,6 @@ fs.unlink('writejson.json', (err) =>{
     }
     console.log("file deleted sucessfully");
 })
+
+
+// Array of objects If I want to add multiple records
